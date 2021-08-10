@@ -42,7 +42,7 @@ blockquote,q{
 }
 blockquote:before,blockquote:after,
 q:before,q:after{
-    content:’’;
+    content:'';
     content:none;
 }
 /* remember to define visible focus styles! 
@@ -88,7 +88,7 @@ body {
 }
 
 header {
-    background: url(../img/background2.svg); #D3F1FF;
+    background: url(../img/background2.svg) #D3F1FF;
     background-repeat: no-repeat;
     background-position: bottom;
     background-size: 100% auto;
