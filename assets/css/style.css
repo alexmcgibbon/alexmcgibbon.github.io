@@ -131,12 +131,17 @@ header ul li{
 header a.cta{
     display: block;
     text-align: center;
-    background: #EB7171;
+    background: #6B8361;
     text-decoration: none;
     color: #fff;
     padding: 6%;
     border-radius: 0.4rem;
 }
+header a.green{
+    background-color: #EB7171;
+    margin-top: 0.5rem;
+}
+
 
 
 header svg {
